@@ -1,19 +1,22 @@
+body{
+background-size: 600px;
+}
 .heading {
     font-size:23px;
     width: 100%;
     margin: 0px;
-    box-shadow: 5px 5px 5px gray;
+    box-shadow: 5px 5px 5px lightblue;
 }
 .heading_div{
     float: none;
-    background:whitesmoke ;
+    background:orange ;
     padding: 10px;
     border-radius: 20px;
-color: black;
-box-shadow: 5px 5px 5px gray;
+    color: palevioletred;
+box-shadow: 5px 5px 5px lightblue;
 }
 .heading_div2 {
-    font-size: 18px;
+    font-size: 18px; 
 }
 .result_para_footer {
 box-shadow:5px 5px 5px grey ;
