@@ -1,20 +1,36 @@
-body{
-background-size: 600px;
-}
 .heading {
     font-size:23px;
     width: 100%;
     margin: 0px;
-    box-shadow: 5px 5px 5px lightblue;
+    box-shadow: 5px 5px 5px gray;
 }
 .heading_div{
     float: none;
-    background:orange ;
+    background:whitesmoke ;
     padding: 10px;
     border-radius: 20px;
-    color: palevioletred;
-box-shadow: 5px 5px 5px lightblue;
+color: black;
+box-shadow: 5px 5px 5px gray;
 }
 .heading_div2 {
-    font-size: 18px; 
+    font-size: 18px;
+}
+.result_para_footer {
+box-shadow:5px 5px 5px grey ;
+font-size: 18px; ;
+}
+.copy_rght_footer {
+position:fixed ;
+color: white;
+bottom: 0;
+width: 100%;
+background-color: green;
+line-height: 3;
+text-align: center
+}
+canvas {
+border: 5px 5px solid blue;
+border-radius:  20px; 
+box-shadow: 5px 5px 5px grey;
+margin-top: 150px;
 }
